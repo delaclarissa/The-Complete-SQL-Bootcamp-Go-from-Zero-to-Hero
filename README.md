@@ -1,6 +1,7 @@
 # The-Complete-SQL-Bootcamp-Go-from-Zero-to-Hero
 SQL script for assignments from 'The Complete SQL Bootcamp: Go from Zero to Hero' course by Udemy.
 
+Course: https://www.udemy.com/course/the-complete-sql-bootcamp
 Tools: PostgreSQL
 
 From this assignment, several things are learnt:
